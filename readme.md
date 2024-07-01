@@ -21,7 +21,7 @@ Welcome to the 30 Days of Python Coding Challenge! This challenge is designed to
 
 | Day | Challenge | Status |
 |-----|-----------|--------|
-| 1   | [Hello, World!](challenges/day01.md) | ✅ Completed |
+| 1   | [Hello, World!](challenges/hello.py) | ✅ Completed |
 | 2   | [Variables and Data Types](challenges/day02.md) | ✅ Completed |
 | 3   | [Control Flow](challenges/day03.md) | ⬜ Pending |
 | 4   | [Functions](challenges/day04.md) | ⬜ Pending |
