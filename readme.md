@@ -41,9 +41,9 @@ After completing the challenge, submit a pull request to this repository with yo
 
 ## Connect with Us
 
-- [Twitter](https://twitter.com/YourProfile)
-- [LinkedIn](https://www.linkedin.com/in/YourProfile)
-- [Email](mailto:your.email@example.com)
+- [Twitter](https://twitter.com/Techja99nerd)
+- [LinkedIn](https://www.linkedin.com/in/james-muchiri)
+- [Email](mailto:your.techspaceerror404@gmail.com)
 
 ## License
 
@@ -53,3 +53,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Happy Coding! 🚀
 """
+
+
